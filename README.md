@@ -1,4 +1,4 @@
-# HTTP Server Project
+# HTTP Server
 
 This project is a simple HTTP server implemented in Java. It handles HTTP requests and serves static content.
 
@@ -33,4 +33,4 @@ The server serves static content based on predefined URIs. For example:
 
 ## Future implementations
 - Handle other methods: `POST`, `PUT`, `DELETE`.
-- Basic security: input validation, rate limiting, security headers, etc.
+- Basic security: Input validation, rate limiting, security headers, etc.
