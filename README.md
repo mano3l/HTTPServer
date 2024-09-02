@@ -33,4 +33,5 @@ The server serves static content based on predefined URIs. For example:
 
 ## Future implementations
 - Handle other methods: `POST`, `PUT`, `DELETE`.
+- Concurrency
 - Basic security: Input validation, rate limiting, security headers, etc.
